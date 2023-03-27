@@ -1,0 +1,42 @@
+body{
+    background-color: #eee;
+}
+
+.btn{
+    border-style: none;
+    color: white;
+    padding: 5px;
+    font-family: sans-serif
+}
+
+.container{
+    background-color: white;
+    border-style: groove;
+    border-top: none;
+    border-radius: 5px;
+}
+
+.modulos{
+    background-color: white;
+    border-bottom: 1px solid;
+    border-color: #eee;
+    padding: 5px;
+    padding-left: 10px ;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+#cancelar{
+    background-color: #C4C3C3;
+}
+
+#aceptar{
+    background-color: #008FFF;
+}
+
+#cancelar:hover{
+    background-color: aquamarine;
+}
+
+#aceptar:hover{
+    background-color: aquamarine;
+}

@@ -1,0 +1,26 @@
+body {
+    background-color: #eeeeee;
+    color: #000000;
+}
+
+#parrafo {
+    color: blue;
+}
+
+.etiqueta{
+    color: greenyellow;
+}
+
+.caja {
+    margin: 12px;
+    padding: 8px ;
+    background: burlywood;
+    border-style: solid;
+    border-color: aqua;
+    border-left: 8px solid blue ;
+    border-radius: 8px;
+    height: 30px;
+    width: 100px;
+    color: white;
+    
+}
